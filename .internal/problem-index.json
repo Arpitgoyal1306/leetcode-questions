@@ -1,0 +1,15 @@
+[
+  {
+    "folderId": "leetcode/0001-two-sum",
+    "frontendId": "1",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-23T11:34:56.789Z"
+  }
+]
