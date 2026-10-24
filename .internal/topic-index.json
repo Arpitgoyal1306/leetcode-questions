@@ -1,8 +1,12 @@
 {
   "Array": [
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/0033-search-in-rotated-sorted-array"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum"
+  ],
+  "Binary Search": [
+    "leetcode/0033-search-in-rotated-sorted-array"
   ]
 }
