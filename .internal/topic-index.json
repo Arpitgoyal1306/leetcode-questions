@@ -8,5 +8,17 @@
   ],
   "Binary Search": [
     "leetcode/0033-search-in-rotated-sorted-array"
+  ],
+  "Tree": [
+    "leetcode/0230-kth-smallest-element-in-a-bst"
+  ],
+  "Depth-First Search": [
+    "leetcode/0230-kth-smallest-element-in-a-bst"
+  ],
+  "Binary Search Tree": [
+    "leetcode/0230-kth-smallest-element-in-a-bst"
+  ],
+  "Binary Tree": [
+    "leetcode/0230-kth-smallest-element-in-a-bst"
   ]
 }
