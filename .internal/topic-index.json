@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/0001-two-sum",
-    "leetcode/0033-search-in-rotated-sorted-array"
+    "leetcode/0033-search-in-rotated-sorted-array",
+    "leetcode/0055-jump-game"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum"
@@ -20,5 +21,11 @@
   ],
   "Binary Tree": [
     "leetcode/0230-kth-smallest-element-in-a-bst"
+  ],
+  "Dynamic Programming": [
+    "leetcode/0055-jump-game"
+  ],
+  "Greedy": [
+    "leetcode/0055-jump-game"
   ]
 }
