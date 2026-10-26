@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 10 ms |
-| Memory | 13 MB |
-| Submission Date | 2026-10-26T12:37:49.487Z |
+| Runtime | 19 ms |
+| Memory | 12.8 MB |
+| Submission Date | 2026-10-26T13:01:03.476Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -68,6 +68,15 @@ class Solution(object):
                 count = i
             count -= 1
         return True
+
+
+        # curr = 0
+        # for i in range(len(nums)):
+        #     if i > curr:
+        #         return False
+        #     curr = max(curr,i+nums[i])
+        # return True
+
 ```
 
 [View on LeetCode](https://leetcode.com/problems/jump-game/)
