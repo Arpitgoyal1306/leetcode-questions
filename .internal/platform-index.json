@@ -3,6 +3,7 @@
     "leetcode/0001-two-sum",
     "leetcode/0033-search-in-rotated-sorted-array",
     "leetcode/0230-kth-smallest-element-in-a-bst",
-    "leetcode/0055-jump-game"
+    "leetcode/0055-jump-game",
+    "leetcode/1833-maximum-ice-cream-bars"
   ]
 }
