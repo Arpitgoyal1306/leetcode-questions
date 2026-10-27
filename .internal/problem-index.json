@@ -82,5 +82,21 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-27T09:29:55.228Z"
+  },
+  {
+    "folderId": "leetcode/0455-assign-cookies",
+    "frontendId": "455",
+    "title": "Assign Cookies",
+    "slug": "assign-cookies",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Quicksort"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-27T16:08:35.463Z"
   }
 ]

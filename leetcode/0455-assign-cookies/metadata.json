@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "455",
+  "frontendId": "455",
+  "title": "Assign Cookies",
+  "slug": "assign-cookies",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Quicksort"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "35 ms",
+  "memory": "13.9 MB",
+  "submissionId": "2183232931",
+  "acceptedAt": "2026-10-27T16:08:35.463Z",
+  "updatedAt": "2026-10-27T16:08:36.843Z",
+  "url": "https://leetcode.com/problems/assign-cookies/",
+  "version": 1
+}

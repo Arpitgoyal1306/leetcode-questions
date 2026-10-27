@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 1 Easy · 5 Medium · 0 Hard
+**7** problems solved — 2 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -19,15 +19,17 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 
 ### Medium (5)
 
@@ -46,7 +48,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (5)</summary>
+<summary>Array (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -54,6 +56,7 @@ _No problems solved yet._
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -113,12 +116,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (3)</summary>
+<summary>Greedy (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -133,11 +137,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (2)</summary>
+<summary>Quicksort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Sorting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -151,10 +165,19 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>Two Pointers (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python (5)</summary>
+<summary>python (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -162,6 +185,7 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -179,6 +203,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |

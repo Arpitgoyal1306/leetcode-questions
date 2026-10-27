@@ -5,6 +5,7 @@
     "leetcode/0230-kth-smallest-element-in-a-bst",
     "leetcode/0055-jump-game",
     "leetcode/1833-maximum-ice-cream-bars",
-    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
+    "leetcode/0455-assign-cookies"
   ]
 }
