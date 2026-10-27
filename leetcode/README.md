@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 1 Easy · 4 Medium · 0 Hard
+**6** problems solved — 1 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 
 ## By Difficulty
@@ -28,13 +29,14 @@
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Array, Binary Search |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 
 ### Hard (0)
@@ -44,13 +46,14 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (4)</summary>
+<summary>Array (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -110,11 +113,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (2)</summary>
+<summary>Greedy (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -129,10 +133,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (1)</summary>
+<summary>Sorting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -149,13 +154,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (4)</summary>
+<summary>python (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -173,6 +179,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | 2026-10-25 |
