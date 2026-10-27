@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "143 ms",
+  "runtime": "151 ms",
   "memory": "43.9 MB",
-  "submissionId": "2182957216",
-  "acceptedAt": "2026-10-27T09:28:38.053Z",
-  "updatedAt": "2026-10-27T09:28:39.168Z",
+  "submissionId": "2182957951",
+  "acceptedAt": "2026-10-27T09:29:55.228Z",
+  "updatedAt": "2026-10-27T09:29:55.860Z",
   "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
-  "version": 1
+  "version": 2
 }
