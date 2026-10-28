@@ -130,5 +130,21 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-28T09:44:03.350Z"
+  },
+  {
+    "folderId": "leetcode/1338-reduce-array-size-to-the-half",
+    "frontendId": "1338",
+    "title": "Reduce Array Size to The Half",
+    "slug": "reduce-array-size-to-the-half",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-28T10:04:04.003Z"
   }
 ]
