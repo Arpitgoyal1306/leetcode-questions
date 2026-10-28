@@ -160,5 +160,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T10:24:53.127Z"
+  },
+  {
+    "folderId": "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
+    "frontendId": "1351",
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "slug": "count-negative-numbers-in-a-sorted-matrix",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T16:44:36.818Z"
   }
 ]

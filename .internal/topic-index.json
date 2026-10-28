@@ -8,7 +8,8 @@
     "leetcode/0455-assign-cookies",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/2208-minimum-operations-to-halve-array-sum"
+    "leetcode/2208-minimum-operations-to-halve-array-sum",
+    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -16,7 +17,8 @@
     "leetcode/1338-reduce-array-size-to-the-half"
   ],
   "Binary Search": [
-    "leetcode/0033-search-in-rotated-sorted-array"
+    "leetcode/0033-search-in-rotated-sorted-array",
+    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
   ],
   "Tree": [
     "leetcode/0230-kth-smallest-element-in-a-bst"
@@ -73,5 +75,8 @@
   ],
   "Counting": [
     "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Matrix": [
+    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
   ]
 }
