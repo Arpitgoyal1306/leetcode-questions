@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**10** problems solved — 2 Easy · 8 Medium · 0 Hard
+**11** problems solved — 2 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -24,6 +24,7 @@
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
 
 ## By Difficulty
 
@@ -34,7 +35,7 @@
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -46,6 +47,7 @@
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Array, Greedy, Heap (Priority Queue) |
 
 ### Hard (0)
 
@@ -54,7 +56,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -66,6 +68,7 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -142,7 +145,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (6)</summary>
+<summary>Greedy (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -152,6 +155,7 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -167,12 +171,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (2)</summary>
+<summary>Heap (Priority Queue) (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -247,11 +252,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (1)</summary>
+<summary>python3 (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -259,6 +265,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |

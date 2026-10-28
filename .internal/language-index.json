@@ -1,6 +1,7 @@
 {
   "python3": [
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "python": [
     "leetcode/0033-search-in-rotated-sorted-array",
