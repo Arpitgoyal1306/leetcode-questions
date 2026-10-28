@@ -5,7 +5,8 @@
     "leetcode/0055-jump-game",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum"
@@ -32,18 +33,21 @@
     "leetcode/0055-jump-game",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Sorting": [
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Counting Sort": [
     "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Two Pointers": [
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Quicksort": [
     "leetcode/0455-assign-cookies"

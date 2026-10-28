@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 2 Easy · 5 Medium · 0 Hard
+**8** problems solved — 2 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 
 ## By Difficulty
 
@@ -31,7 +32,7 @@
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 
-### Medium (5)
+### Medium (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -40,6 +41,7 @@
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 
 ### Hard (0)
 
@@ -48,7 +50,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (6)</summary>
+<summary>Array (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -58,6 +60,7 @@ _No problems solved yet._
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
@@ -116,7 +119,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (4)</summary>
+<summary>Greedy (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -124,6 +127,7 @@ _No problems solved yet._
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
@@ -146,13 +150,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (3)</summary>
+<summary>Sorting (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
@@ -166,18 +171,19 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (1)</summary>
+<summary>Two Pointers (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python (6)</summary>
+<summary>python (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -187,6 +193,7 @@ _No problems solved yet._
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
@@ -203,6 +210,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |

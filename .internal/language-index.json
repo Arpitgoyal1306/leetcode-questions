@@ -8,6 +8,7 @@
     "leetcode/0055-jump-game",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ]
 }
