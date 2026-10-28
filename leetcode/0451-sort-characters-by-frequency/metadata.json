@@ -15,11 +15,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "24 ms",
-  "memory": "13.4 MB",
-  "submissionId": "2183793409",
-  "acceptedAt": "2026-10-28T09:42:21.757Z",
-  "updatedAt": "2026-10-28T09:42:22.784Z",
+  "runtime": "25 ms",
+  "memory": "13.2 MB",
+  "submissionId": "2183794475",
+  "acceptedAt": "2026-10-28T09:44:03.350Z",
+  "updatedAt": "2026-10-28T09:44:03.940Z",
   "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
-  "version": 2
+  "version": 3
 }

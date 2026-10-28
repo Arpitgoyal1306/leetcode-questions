@@ -1,13 +1,17 @@
-# Runtime: 24 ms
-# Memory: 13.4 MB
+# Runtime: 25 ms
+# Memory: 13.2 MB
 
 from collections import Counter
 class Solution(object):
     def frequencySort(self, s):
-        final = []
-        for ch,f in Counter(s).most_common():
-            final.append(ch*f)
-        return "".join(final)
+        return "".join([ch *f for ch,f in Counter(s).most_common()])
+
+        # final = []
+        # for ch,f in Counter(s).most_common():
+        #     final.append(ch*f)
+        # return "".join(final)
+
+
         # dic = {}
         # for ch in s:
         #     if ch in dic:
