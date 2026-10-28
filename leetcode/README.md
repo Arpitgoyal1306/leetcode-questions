@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**8** problems solved — 2 Easy · 6 Medium · 0 Hard
+**9** problems solved — 2 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
@@ -32,13 +33,14 @@
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Array, Binary Search |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -92,6 +94,24 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Bucket Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Counting Sort (1)</summary>
 
 | # | Title | Difficulty |
@@ -132,11 +152,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (1)</summary>
+<summary>Hash Table (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Heap (Priority Queue) (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 
 </details>
 
@@ -150,14 +180,24 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (4)</summary>
+<summary>Sorting (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>String (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 
 </details>
 
@@ -183,13 +223,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (7)</summary>
+<summary>python (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -210,6 +251,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
