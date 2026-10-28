@@ -1,5 +1,5 @@
-# Runtime: 1064 ms
-# Memory: 24.9 MB
+# Runtime: 1084 ms
+# Memory: 24.8 MB
 
 class Solution(object):
     def minPairSum(self, nums):

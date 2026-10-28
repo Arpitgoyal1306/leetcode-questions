@@ -13,11 +13,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "1064 ms",
-  "memory": "24.9 MB",
-  "submissionId": "2183778145",
-  "acceptedAt": "2026-10-28T09:17:27.004Z",
-  "updatedAt": "2026-10-28T09:17:28.167Z",
+  "runtime": "1084 ms",
+  "memory": "24.8 MB",
+  "submissionId": "2183778876",
+  "acceptedAt": "2026-10-28T09:18:37.272Z",
+  "updatedAt": "2026-10-28T09:18:37.890Z",
   "url": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
-  "version": 1
+  "version": 2
 }
