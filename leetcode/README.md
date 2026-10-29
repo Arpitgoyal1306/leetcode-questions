@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 3 Easy · 9 Medium · 0 Hard
+**13** problems solved — 3 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | Array, Binary Search, Matrix |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
@@ -37,7 +38,7 @@
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 
-### Medium (9)
+### Medium (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -46,6 +47,7 @@
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -58,7 +60,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (10)</summary>
+<summary>Array (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -67,6 +69,7 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -149,13 +152,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (7)</summary>
+<summary>Greedy (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -204,13 +208,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (6)</summary>
+<summary>Sorting (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -227,6 +232,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Timsort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Tree (1)</summary>
 
 | # | Title | Difficulty |
@@ -236,11 +250,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (2)</summary>
+<summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
@@ -248,7 +263,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (9)</summary>
+<summary>python (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -258,6 +273,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -279,6 +295,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-29 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-28 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |

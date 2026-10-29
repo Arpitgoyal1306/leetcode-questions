@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "917",
+  "frontendId": "881",
+  "title": "Boats to Save People",
+  "slug": "boats-to-save-people",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Timsort"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "71 ms",
+  "memory": "16.4 MB",
+  "submissionId": "2184483500",
+  "acceptedAt": "2026-10-29T06:17:03.098Z",
+  "updatedAt": "2026-10-29T06:17:04.027Z",
+  "url": "https://leetcode.com/problems/boats-to-save-people/",
+  "version": 1
+}
