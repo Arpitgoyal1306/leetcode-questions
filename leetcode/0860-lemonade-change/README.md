@@ -8,7 +8,7 @@
 | --- | --- |
 | Runtime | 2 ms |
 | Memory | 14.9 MB |
-| Submission Date | 2026-10-30T08:24:14.940Z |
+| Submission Date | 2026-10-30T08:25:04.238Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -90,6 +90,7 @@ class Solution(object):
                 else:
                     return False
         return True
+
 ```
 
 [View on LeetCode](https://leetcode.com/problems/lemonade-change/)
