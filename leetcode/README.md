@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**13** problems solved — 3 Easy · 10 Medium · 0 Hard
+**14** problems solved — 4 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | Array, Binary Search, Matrix |
@@ -30,12 +31,13 @@
 
 ## By Difficulty
 
-### Easy (3)
+### Easy (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 
 ### Medium (10)
@@ -60,7 +62,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -69,6 +71,7 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
@@ -152,13 +155,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (8)</summary>
+<summary>Greedy (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -263,7 +267,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (10)</summary>
+<summary>python (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -273,6 +277,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -295,6 +300,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-29 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-28 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |

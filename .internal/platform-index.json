@@ -12,6 +12,7 @@
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
-    "leetcode/0881-boats-to-save-people"
+    "leetcode/0881-boats-to-save-people",
+    "leetcode/0860-lemonade-change"
   ]
 }
