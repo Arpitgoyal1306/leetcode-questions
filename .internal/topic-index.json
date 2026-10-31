@@ -69,7 +69,8 @@
     "leetcode/0455-assign-cookies"
   ],
   "String": [
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/0709-to-lower-case"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",

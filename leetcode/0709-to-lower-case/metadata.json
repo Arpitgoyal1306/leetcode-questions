@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "742",
+  "frontendId": "709",
+  "title": "To Lower Case",
+  "slug": "to-lower-case",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2186303435",
+  "acceptedAt": "2026-10-31T15:49:49.954Z",
+  "updatedAt": "2026-10-31T15:49:50.788Z",
+  "url": "https://leetcode.com/problems/to-lower-case/",
+  "version": 1
+}
