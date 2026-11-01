@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "2048",
+  "frontendId": "1920",
+  "title": "Build Array from Permutation",
+  "slug": "build-array-from-permutation",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "6 ms",
+  "memory": "12.6 MB",
+  "submissionId": "2187073698",
+  "acceptedAt": "2026-11-01T15:07:50.469Z",
+  "updatedAt": "2026-11-01T15:07:51.496Z",
+  "url": "https://leetcode.com/problems/build-array-from-permutation/",
+  "version": 1
+}

@@ -11,7 +11,8 @@
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/1920-build-array-from-permutation"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -88,5 +89,8 @@
   ],
   "Timsort": [
     "leetcode/0881-boats-to-save-people"
+  ],
+  "Simulation": [
+    "leetcode/1920-build-array-from-permutation"
   ]
 }

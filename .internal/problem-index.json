@@ -215,5 +215,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-31T15:49:49.954Z"
+  },
+  {
+    "folderId": "leetcode/1920-build-array-from-permutation",
+    "frontendId": "1920",
+    "title": "Build Array from Permutation",
+    "slug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-01T15:07:50.469Z"
   }
 ]
