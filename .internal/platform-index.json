@@ -15,6 +15,7 @@
     "leetcode/0881-boats-to-save-people",
     "leetcode/0860-lemonade-change",
     "leetcode/0709-to-lower-case",
-    "leetcode/1920-build-array-from-permutation"
+    "leetcode/1920-build-array-from-permutation",
+    "leetcode/2011-final-value-of-variable-after-performing-operations"
   ]
 }

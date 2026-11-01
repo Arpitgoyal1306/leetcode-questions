@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "2137",
+  "frontendId": "2011",
+  "title": "Final Value of Variable After Performing Operations",
+  "slug": "final-value-of-variable-after-performing-operations",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "3 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2187075205",
+  "acceptedAt": "2026-11-01T15:10:04.479Z",
+  "updatedAt": "2026-11-01T15:10:05.872Z",
+  "url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+  "version": 1
+}

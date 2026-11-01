@@ -12,7 +12,8 @@
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
     "leetcode/0881-boats-to-save-people",
     "leetcode/0860-lemonade-change",
-    "leetcode/1920-build-array-from-permutation"
+    "leetcode/1920-build-array-from-permutation",
+    "leetcode/2011-final-value-of-variable-after-performing-operations"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -71,7 +72,8 @@
   ],
   "String": [
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/0709-to-lower-case"
+    "leetcode/0709-to-lower-case",
+    "leetcode/2011-final-value-of-variable-after-performing-operations"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",
@@ -91,6 +93,7 @@
     "leetcode/0881-boats-to-save-people"
   ],
   "Simulation": [
-    "leetcode/1920-build-array-from-permutation"
+    "leetcode/1920-build-array-from-permutation",
+    "leetcode/2011-final-value-of-variable-after-performing-operations"
   ]
 }

@@ -228,5 +228,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-01T15:07:50.469Z"
+  },
+  {
+    "folderId": "leetcode/2011-final-value-of-variable-after-performing-operations",
+    "frontendId": "2011",
+    "title": "Final Value of Variable After Performing Operations",
+    "slug": "final-value-of-variable-after-performing-operations",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-01T15:10:04.479Z"
   }
 ]

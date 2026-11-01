@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**16** problems solved — 6 Easy · 10 Medium · 0 Hard
+**17** problems solved — 7 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -29,11 +29,12 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy | Array, Simulation |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | Array, String, Simulation |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -43,6 +44,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Array, Simulation |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Array, String, Simulation |
 
 ### Medium (10)
 
@@ -66,7 +68,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (13)</summary>
+<summary>Array (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -82,6 +84,7 @@ _No problems solved yet._
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
@@ -217,11 +220,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Simulation (1)</summary>
+<summary>Simulation (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 
 </details>
 
@@ -241,12 +245,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 
 </details>
 
@@ -282,7 +287,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (13)</summary>
+<summary>python (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -299,6 +304,7 @@ _No problems solved yet._
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 
 </details>
 
@@ -317,6 +323,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | 2026-11-01 |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy | 2026-11-01 |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-10-31 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
@@ -331,4 +338,3 @@ _No problems solved yet._
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | 2026-10-25 |
-| 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | 2026-10-24 |

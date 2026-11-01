@@ -1,0 +1,106 @@
+# 2011. Final Value of Variable After Performing Operations
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Topic](https://img.shields.io/badge/Topic-Array-blue) ![Topic](https://img.shields.io/badge/Topic-String-blue) ![Topic](https://img.shields.io/badge/Topic-Simulation-blue) ![Language](https://img.shields.io/badge/Language-python-orange)
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Runtime | 3 ms |
+| Memory | 12.1 MB |
+| Submission Date | 2026-11-01T15:10:04.479Z |
+| Platform | leetcode |
+
+## Problem Statement
+
+<p>There is a programming language with only <strong>four</strong> operations and <strong>one</strong> variable <code>X</code>:</p>
+
+<ul>
+	<li><code>++X</code> and <code>X++</code> <strong>increments</strong> the value of the variable <code>X</code> by <code>1</code>.</li>
+	<li><code>--X</code> and <code>X--</code> <strong>decrements</strong> the value of the variable <code>X</code> by <code>1</code>.</li>
+</ul>
+
+<p>Initially, the value of <code>X</code> is <code>0</code>.</p>
+
+<p>Given an array of strings <code>operations</code> containing a list of operations, return <em>the <strong>final </strong>value of </em><code>X</code> <em>after performing all the operations</em>.</p>
+
+<p>&nbsp;</p>
+<p>
+
+## Examples
+
+**Example 1:**
+
+```
+</p>
+
+<pre>
+<strong>Input:</strong> operations = [&quot;--X&quot;,&quot;X++&quot;,&quot;X++&quot;]
+<strong>Output:</strong> 1
+<strong>Explanation:</strong>&nbsp;The operations are performed as follows:
+Initially, X = 0.
+--X: X is decremented by 1, X =  0 - 1 = -1.
+X++: X is incremented by 1, X = -1 + 1 =  0.
+X++: X is incremented by 1, X =  0 + 1 =  1.
+</pre>
+
+<p>
+```
+
+**Example 2:**
+
+```
+</p>
+
+<pre>
+<strong>Input:</strong> operations = [&quot;++X&quot;,&quot;++X&quot;,&quot;X++&quot;]
+<strong>Output:</strong> 3
+<strong>Explanation: </strong>The operations are performed as follows:
+Initially, X = 0.
+++X: X is incremented by 1, X = 0 + 1 = 1.
+++X: X is incremented by 1, X = 1 + 1 = 2.
+X++: X is incremented by 1, X = 2 + 1 = 3.
+</pre>
+
+<p>
+```
+
+**Example 3:**
+
+```
+</p>
+
+<pre>
+<strong>Input:</strong> operations = [&quot;X++&quot;,&quot;++X&quot;,&quot;--X&quot;,&quot;X--&quot;]
+<strong>Output:</strong> 0
+<strong>Explanation:</strong>&nbsp;The operations are performed as follows:
+Initially, X = 0.
+X++: X is incremented by 1, X = 0 + 1 = 1.
+++X: X is incremented by 1, X = 1 + 1 = 2.
+--X: X is decremented by 1, X = 2 - 1 = 1.
+X--: X is decremented by 1, X = 1 - 1 = 0.
+</pre>
+
+<p>&nbsp;</p>
+```
+
+## Constraints
+
+- <code>1 &lt;= operations.length &lt;= 100</code>
+- <code>operations[i]</code> will be either <code>&quot;++X&quot;</code>, <code>&quot;X++&quot;</code>, <code>&quot;--X&quot;</code>, or <code>&quot;X--&quot;</code>.
+
+## Solution
+
+```py
+class Solution(object):
+    def finalValueAfterOperations(self, operations):
+        X = 0
+        for i in operations:
+            if i == "++X" or i == "X++":
+                X += 1
+            else:
+                X -= 1
+        return X
+```
+
+[View on LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
