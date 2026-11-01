@@ -13,7 +13,8 @@
     "leetcode/0881-boats-to-save-people",
     "leetcode/0860-lemonade-change",
     "leetcode/1920-build-array-from-permutation",
-    "leetcode/2011-final-value-of-variable-after-performing-operations"
+    "leetcode/2011-final-value-of-variable-after-performing-operations",
+    "leetcode/2114-maximum-number-of-words-found-in-sentences"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -73,7 +74,8 @@
   "String": [
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/0709-to-lower-case",
-    "leetcode/2011-final-value-of-variable-after-performing-operations"
+    "leetcode/2011-final-value-of-variable-after-performing-operations",
+    "leetcode/2114-maximum-number-of-words-found-in-sentences"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",

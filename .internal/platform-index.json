@@ -16,6 +16,7 @@
     "leetcode/0860-lemonade-change",
     "leetcode/0709-to-lower-case",
     "leetcode/1920-build-array-from-permutation",
-    "leetcode/2011-final-value-of-variable-after-performing-operations"
+    "leetcode/2011-final-value-of-variable-after-performing-operations",
+    "leetcode/2114-maximum-number-of-words-found-in-sentences"
   ]
 }
