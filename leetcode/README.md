@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**18** problems solved — 8 Easy · 10 Medium · 0 Hard
+**19** problems solved — 8 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -48,12 +49,13 @@
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Array, String, Simulation |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
 
-### Medium (10)
+### Medium (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Array, Binary Search |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
@@ -130,6 +132,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Combinatorics (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Counting (1)</summary>
 
 | # | Title | Difficulty |
@@ -157,11 +168,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>Dynamic Programming (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 
 </details>
 
@@ -201,6 +213,15 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Math (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 
 </details>
 
@@ -291,12 +312,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (15)</summary>
+<summary>python (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -328,6 +350,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-11-01 |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | 2026-11-01 |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy | 2026-11-01 |
@@ -342,4 +365,3 @@ _No problems solved yet._
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
-| 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |

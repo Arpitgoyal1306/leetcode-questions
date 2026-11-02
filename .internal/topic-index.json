@@ -38,7 +38,8 @@
     "leetcode/0230-kth-smallest-element-in-a-bst"
   ],
   "Dynamic Programming": [
-    "leetcode/0055-jump-game"
+    "leetcode/0055-jump-game",
+    "leetcode/0062-unique-paths"
   ],
   "Greedy": [
     "leetcode/0055-jump-game",
@@ -97,5 +98,11 @@
   "Simulation": [
     "leetcode/1920-build-array-from-permutation",
     "leetcode/2011-final-value-of-variable-after-performing-operations"
+  ],
+  "Math": [
+    "leetcode/0062-unique-paths"
+  ],
+  "Combinatorics": [
+    "leetcode/0062-unique-paths"
   ]
 }
