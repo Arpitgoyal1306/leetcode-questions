@@ -2,7 +2,8 @@
   "python3": [
     "leetcode/0001-two-sum",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
-    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
+    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
+    "leetcode/0062-unique-paths"
   ],
   "python": [
     "leetcode/0033-search-in-rotated-sorted-array",
@@ -19,7 +20,6 @@
     "leetcode/0709-to-lower-case",
     "leetcode/1920-build-array-from-permutation",
     "leetcode/2011-final-value-of-variable-after-performing-operations",
-    "leetcode/2114-maximum-number-of-words-found-in-sentences",
-    "leetcode/0062-unique-paths"
+    "leetcode/2114-maximum-number-of-words-found-in-sentences"
   ]
 }

@@ -11,12 +11,12 @@
     "Combinatorics"
   ],
   "companyTags": [],
-  "language": "python",
-  "runtime": "2 ms",
-  "memory": "12.1 MB",
-  "submissionId": "2187658953",
-  "acceptedAt": "2026-11-02T10:11:00.805Z",
-  "updatedAt": "2026-11-02T10:11:01.382Z",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2187670172",
+  "acceptedAt": "2026-11-02T10:29:40.910Z",
+  "updatedAt": "2026-11-02T10:29:42.316Z",
   "url": "https://leetcode.com/problems/unique-paths/",
-  "version": 3
+  "version": 4
 }
