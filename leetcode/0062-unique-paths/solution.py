@@ -1,8 +1,10 @@
-# Runtime: 1 ms
-# Memory: 12 MB
+# Runtime: 2 ms
+# Memory: 12.1 MB
 
 class Solution(object):
     def uniquePaths(self, m, n):
+        # memoisation
+
         # memo = [[-1] * n for _ in range(m)]
         # def f(i,j):
         #     if (i,j) == (m-1,n-1):
@@ -18,8 +20,11 @@ class Solution(object):
         #     return ways
         # return f(0,0)
 
-        dp = [[0] * n for _ in range(m)]
 
+
+        # tabulation
+        
+        dp = [[0] * n for _ in range(m)]
         for i in range(m-1, -1, -1):
             for j in range(n-1, -1, -1):
                 if (i,j) == (m-1,n-1):
@@ -29,5 +34,4 @@ class Solution(object):
                         dp[i][j] += dp[i+1][j]
                     if j+1 < n:
                         dp[i][j] += dp[i][j+1]
-        for row in dp:
-            return dp[0][0]
+        return dp[0][0]
