@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "2 ms",
-  "memory": "12.3 MB",
-  "submissionId": "2187647183",
-  "acceptedAt": "2026-11-02T09:51:14.291Z",
-  "updatedAt": "2026-11-02T09:51:15.187Z",
+  "runtime": "1 ms",
+  "memory": "12 MB",
+  "submissionId": "2187658236",
+  "acceptedAt": "2026-11-02T10:09:51.212Z",
+  "updatedAt": "2026-11-02T10:09:51.759Z",
   "url": "https://leetcode.com/problems/unique-paths/",
-  "version": 1
+  "version": 2
 }
