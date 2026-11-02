@@ -312,12 +312,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (15)</summary>
+<summary>python (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -335,12 +336,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (4)</summary>
+<summary>python3 (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
-| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 

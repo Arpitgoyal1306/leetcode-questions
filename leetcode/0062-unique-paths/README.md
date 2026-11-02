@@ -1,14 +1,14 @@
 # 62. Unique Paths
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) ![Topic](https://img.shields.io/badge/Topic-Math-blue) ![Topic](https://img.shields.io/badge/Topic-Dynamic_Programming-blue) ![Topic](https://img.shields.io/badge/Topic-Combinatorics-blue) ![Language](https://img.shields.io/badge/Language-python3-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) ![Topic](https://img.shields.io/badge/Topic-Math-blue) ![Topic](https://img.shields.io/badge/Topic-Dynamic_Programming-blue) ![Topic](https://img.shields.io/badge/Topic-Combinatorics-blue) ![Language](https://img.shields.io/badge/Language-python-orange)
 
 ## Metadata
 
 | Field | Value |
 | --- | --- |
-| Runtime | 0 ms |
-| Memory | 19.1 MB |
-| Submission Date | 2026-11-02T10:29:40.910Z |
+| Runtime | 2 ms |
+| Memory | 12.1 MB |
+| Submission Date | 2026-11-02T10:30:04.126Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -61,10 +61,40 @@
 ## Solution
 
 ```py
-import math
-class Solution:
-    def uniquePaths(self, m: int, n: int) -> int:
-        return math.comb(m + n - 2, m - 1)
+class Solution(object):
+    def uniquePaths(self, m, n):
+        # memoisation
+
+        # memo = [[-1] * n for _ in range(m)]
+        # def f(i,j):
+        #     if (i,j) == (m-1,n-1):
+        #         return 1
+        #     if memo[i][j] != -1:
+        #         return memo[i][j]
+        #     ways = 0
+        #     if i+1 < m: 
+        #         ways += f(i+1,j) 
+        #     if j+1 < n:
+        #         ways += f(i,j+1)
+        #     memo[i][j] = ways
+        #     return ways
+        # return f(0,0)
+
+
+
+        # tabulation
+        
+        dp = [[0] * n for _ in range(m)]
+        for i in range(m-1, -1, -1):
+            for j in range(n-1, -1, -1):
+                if (i,j) == (m-1,n-1):
+                    dp[i][j] = 1
+                else:
+                    if i+1 < m:
+                        dp[i][j] += dp[i+1][j]
+                    if j+1 < n:
+                        dp[i][j] += dp[i][j+1]
+        return dp[0][0]
 ```
 
 [View on LeetCode](https://leetcode.com/problems/unique-paths/)
