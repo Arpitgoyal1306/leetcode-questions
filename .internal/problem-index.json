@@ -283,5 +283,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-03T10:00:39.948Z"
+  },
+  {
+    "folderId": "leetcode/0064-minimum-path-sum",
+    "frontendId": "64",
+    "title": "Minimum Path Sum",
+    "slug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-03T10:23:44.446Z"
   }
 ]

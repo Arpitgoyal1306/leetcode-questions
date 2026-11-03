@@ -1,8 +1,8 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "byDifficulty": {
     "Easy": 8,
-    "Medium": 12,
+    "Medium": 13,
     "Hard": 0
   },
   "currentStreak": 12,
@@ -20,6 +20,6 @@
     "2026-10-31": 1,
     "2026-11-01": 3,
     "2026-11-02": 5,
-    "2026-11-03": 1
+    "2026-11-03": 2
   }
 }

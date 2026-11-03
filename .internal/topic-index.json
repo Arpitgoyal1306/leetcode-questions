@@ -15,7 +15,8 @@
     "leetcode/1920-build-array-from-permutation",
     "leetcode/2011-final-value-of-variable-after-performing-operations",
     "leetcode/2114-maximum-number-of-words-found-in-sentences",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -41,7 +42,8 @@
   "Dynamic Programming": [
     "leetcode/0055-jump-game",
     "leetcode/0062-unique-paths",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ],
   "Greedy": [
     "leetcode/0055-jump-game",
@@ -93,7 +95,8 @@
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ],
   "Timsort": [
     "leetcode/0881-boats-to-save-people"
