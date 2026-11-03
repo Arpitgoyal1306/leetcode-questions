@@ -18,6 +18,7 @@
     "leetcode/1920-build-array-from-permutation",
     "leetcode/2011-final-value-of-variable-after-performing-operations",
     "leetcode/2114-maximum-number-of-words-found-in-sentences",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0063-unique-paths-ii"
   ]
 }

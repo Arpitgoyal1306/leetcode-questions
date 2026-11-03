@@ -14,7 +14,8 @@
     "leetcode/0860-lemonade-change",
     "leetcode/1920-build-array-from-permutation",
     "leetcode/2011-final-value-of-variable-after-performing-operations",
-    "leetcode/2114-maximum-number-of-words-found-in-sentences"
+    "leetcode/2114-maximum-number-of-words-found-in-sentences",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -39,7 +40,8 @@
   ],
   "Dynamic Programming": [
     "leetcode/0055-jump-game",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Greedy": [
     "leetcode/0055-jump-game",
@@ -90,7 +92,8 @@
     "leetcode/0451-sort-characters-by-frequency"
   ],
   "Matrix": [
-    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix"
+    "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Timsort": [
     "leetcode/0881-boats-to-save-people"
