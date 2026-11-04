@@ -43,7 +43,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0062-unique-paths",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0064-minimum-path-sum"
+    "leetcode/0064-minimum-path-sum",
+    "leetcode/1143-longest-common-subsequence"
   ],
   "Greedy": [
     "leetcode/0055-jump-game",
@@ -80,7 +81,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/0709-to-lower-case",
     "leetcode/2011-final-value-of-variable-after-performing-operations",
-    "leetcode/2114-maximum-number-of-words-found-in-sentences"
+    "leetcode/2114-maximum-number-of-words-found-in-sentences",
+    "leetcode/1143-longest-common-subsequence"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",
@@ -110,5 +112,8 @@
   ],
   "Combinatorics": [
     "leetcode/0062-unique-paths"
+  ],
+  "Longest Common Subsequence": [
+    "leetcode/1143-longest-common-subsequence"
   ]
 }

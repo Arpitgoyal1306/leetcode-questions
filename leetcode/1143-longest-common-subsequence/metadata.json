@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "1250",
+  "frontendId": "1143",
+  "title": "Longest Common Subsequence",
+  "slug": "longest-common-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1085 ms",
+  "memory": "30.2 MB",
+  "submissionId": "2189269814",
+  "acceptedAt": "2026-11-04T10:19:24.012Z",
+  "updatedAt": "2026-11-04T10:19:25.027Z",
+  "url": "https://leetcode.com/problems/longest-common-subsequence/",
+  "version": 1
+}

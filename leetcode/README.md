@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**21** problems solved — 8 Easy · 13 Medium · 0 Hard
+**22** problems solved — 8 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -27,6 +27,7 @@
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | String |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | Array, Binary Search, Matrix |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
@@ -51,7 +52,7 @@
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Array, String, Simulation |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
 
-### Medium (13)
+### Medium (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -64,6 +65,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -174,7 +176,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (4)</summary>
+<summary>Dynamic Programming (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -182,6 +184,7 @@ _No problems solved yet._
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
 
@@ -221,6 +224,15 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Longest Common Subsequence (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
 
@@ -279,12 +291,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (4)</summary>
+<summary>String (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
 
@@ -322,7 +335,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (18)</summary>
+<summary>python (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -338,6 +351,7 @@ _No problems solved yet._
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -362,6 +376,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
@@ -376,4 +391,3 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
-| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
