@@ -311,5 +311,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-04T10:19:24.012Z"
+  },
+  {
+    "folderId": "leetcode/1512-number-of-good-pairs",
+    "frontendId": "1512",
+    "title": "Number of Good Pairs",
+    "slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-05T10:01:54.228Z"
   }
 ]

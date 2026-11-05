@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "1635",
+  "frontendId": "1512",
+  "title": "Number of Good Pairs",
+  "slug": "number-of-good-pairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "2 ms",
+  "memory": "12.2 MB",
+  "submissionId": "2189978888",
+  "acceptedAt": "2026-11-05T10:01:54.228Z",
+  "updatedAt": "2026-11-05T10:01:55.237Z",
+  "url": "https://leetcode.com/problems/number-of-good-pairs/",
+  "version": 1
+}
