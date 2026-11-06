@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**23** problems solved — 9 Easy · 14 Medium · 0 Hard
+**24** problems solved — 10 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -30,6 +30,7 @@
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | Array, Binary Search, Matrix |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy | Array, Hash Table, Sorting, Counting Sort |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy | Array, Hash Table, Math, Counting |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
@@ -40,7 +41,7 @@
 
 ## By Difficulty
 
-### Easy (9)
+### Easy (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -49,6 +50,7 @@
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Array, Hash Table, Sorting, Counting Sort |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Array, Hash Table, Math, Counting |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Array, Simulation |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Array, String, Simulation |
@@ -80,7 +82,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (18)</summary>
+<summary>Array (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -95,6 +97,7 @@ _No problems solved yet._
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -162,10 +165,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting Sort (1)</summary>
+<summary>Counting Sort (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -210,13 +214,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (4)</summary>
+<summary>Hash Table (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
 
 </details>
@@ -282,7 +287,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (7)</summary>
+<summary>Sorting (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -291,6 +296,7 @@ _No problems solved yet._
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
@@ -341,7 +347,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (20)</summary>
+<summary>python (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -359,6 +365,7 @@ _No problems solved yet._
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -383,6 +390,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy | 2026-11-06 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy | 2026-11-05 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
@@ -397,4 +405,3 @@ _No problems solved yet._
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-28 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
-| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |

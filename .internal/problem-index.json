@@ -326,5 +326,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-05T10:01:54.228Z"
+  },
+  {
+    "folderId": "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number",
+    "frontendId": "1365",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-06T17:18:16.381Z"
   }
 ]
