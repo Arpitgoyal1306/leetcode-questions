@@ -341,5 +341,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-06T17:18:16.381Z"
+  },
+  {
+    "folderId": "leetcode/2215-find-the-difference-of-two-arrays",
+    "frontendId": "2215",
+    "title": "Find the Difference of Two Arrays",
+    "slug": "find-the-difference-of-two-arrays",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-07T18:21:36.375Z"
   }
 ]

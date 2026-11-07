@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**24** problems solved — 10 Easy · 14 Medium · 0 Hard
+**25** problems solved — 11 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -38,10 +38,11 @@
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | Array, String, Simulation |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Array, String |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
+| 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy | Array, Hash Table |
 
 ## By Difficulty
 
-### Easy (10)
+### Easy (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -55,6 +56,7 @@
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Array, Simulation |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Array, String, Simulation |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
+| 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Array, Hash Table |
 
 ### Medium (14)
 
@@ -82,7 +84,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (19)</summary>
+<summary>Array (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -105,6 +107,7 @@ _No problems solved yet._
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
+| 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy |
 
 </details>
 
@@ -214,7 +217,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (5)</summary>
+<summary>Hash Table (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -223,6 +226,7 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
+| 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy |
 
 </details>
 
@@ -347,7 +351,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (21)</summary>
+<summary>python (22)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -372,6 +376,7 @@ _No problems solved yet._
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
+| 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy |
 
 </details>
 
@@ -390,6 +395,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy | 2026-11-07 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy | 2026-11-06 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy | 2026-11-05 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
@@ -404,4 +410,3 @@ _No problems solved yet._
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-29 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-28 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |
-| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |

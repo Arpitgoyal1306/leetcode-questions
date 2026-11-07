@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1392",
+  "frontendId": "2215",
+  "title": "Find the Difference of Two Arrays",
+  "slug": "find-the-difference-of-two-arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "656 ms",
+  "memory": "12.5 MB",
+  "submissionId": "2191511000",
+  "acceptedAt": "2026-11-07T18:21:36.375Z",
+  "updatedAt": "2026-11-07T18:21:37.500Z",
+  "url": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+  "version": 1
+}
