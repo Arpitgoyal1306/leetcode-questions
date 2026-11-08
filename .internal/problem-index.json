@@ -354,5 +354,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-07T18:21:36.375Z"
+  },
+  {
+    "folderId": "leetcode/2351-first-letter-to-appear-twice",
+    "frontendId": "2351",
+    "title": "First Letter to Appear Twice",
+    "slug": "first-letter-to-appear-twice",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-08T20:37:27.879Z"
   }
 ]

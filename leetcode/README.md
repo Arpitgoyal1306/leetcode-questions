@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**25** problems solved — 11 Easy · 14 Medium · 0 Hard
+**26** problems solved — 12 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -39,10 +39,11 @@
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | Array, String |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy | Array, Hash Table |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy | Hash Table, String, Bit Manipulation, Counting |
 
 ## By Difficulty
 
-### Easy (11)
+### Easy (12)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -57,6 +58,7 @@
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Array, String, Simulation |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Array, String |
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Array, Hash Table |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Hash Table, String, Bit Manipulation, Counting |
 
 ### Medium (14)
 
@@ -140,6 +142,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Bit Manipulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Bucket Sort (1)</summary>
 
 | # | Title | Difficulty |
@@ -158,12 +169,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (2)</summary>
+<summary>Counting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
 
 </details>
 
@@ -217,7 +229,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (6)</summary>
+<summary>Hash Table (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -227,6 +239,7 @@ _No problems solved yet._
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
 
 </details>
 
@@ -307,7 +320,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (5)</summary>
+<summary>String (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -316,6 +329,7 @@ _No problems solved yet._
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
 
 </details>
 
@@ -351,7 +365,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (22)</summary>
+<summary>python (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -377,6 +391,7 @@ _No problems solved yet._
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
 
 </details>
 
@@ -395,6 +410,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy | 2026-11-08 |
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy | 2026-11-07 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy | 2026-11-06 |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy | 2026-11-05 |
@@ -409,4 +425,3 @@ _No problems solved yet._
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-29 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-28 |
-| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-28 |

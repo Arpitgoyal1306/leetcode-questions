@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "2427",
+  "frontendId": "2351",
+  "title": "First Letter to Appear Twice",
+  "slug": "first-letter-to-appear-twice",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Counting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2192125149",
+  "acceptedAt": "2026-11-08T20:37:27.879Z",
+  "updatedAt": "2026-11-08T20:37:29.601Z",
+  "url": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+  "version": 1
+}
