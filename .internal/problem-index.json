@@ -369,5 +369,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-08T20:37:27.879Z"
+  },
+  {
+    "folderId": "leetcode/0389-find-the-difference",
+    "frontendId": "389",
+    "title": "Find the Difference",
+    "slug": "find-the-difference",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-09T16:32:21.248Z"
   }
 ]

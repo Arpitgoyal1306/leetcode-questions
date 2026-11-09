@@ -25,6 +25,7 @@
     "leetcode/1512-number-of-good-pairs",
     "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number",
     "leetcode/2215-find-the-difference-of-two-arrays",
-    "leetcode/2351-first-letter-to-appear-twice"
+    "leetcode/2351-first-letter-to-appear-twice",
+    "leetcode/0389-find-the-difference"
   ]
 }

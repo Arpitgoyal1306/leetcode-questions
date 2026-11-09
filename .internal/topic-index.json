@@ -28,7 +28,8 @@
     "leetcode/1512-number-of-good-pairs",
     "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number",
     "leetcode/2215-find-the-difference-of-two-arrays",
-    "leetcode/2351-first-letter-to-appear-twice"
+    "leetcode/2351-first-letter-to-appear-twice",
+    "leetcode/0389-find-the-difference"
   ],
   "Binary Search": [
     "leetcode/0033-search-in-rotated-sorted-array",
@@ -72,7 +73,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number"
+    "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number",
+    "leetcode/0389-find-the-difference"
   ],
   "Counting Sort": [
     "leetcode/1833-maximum-ice-cream-bars",
@@ -92,7 +94,8 @@
     "leetcode/2011-final-value-of-variable-after-performing-operations",
     "leetcode/2114-maximum-number-of-words-found-in-sentences",
     "leetcode/1143-longest-common-subsequence",
-    "leetcode/2351-first-letter-to-appear-twice"
+    "leetcode/2351-first-letter-to-appear-twice",
+    "leetcode/0389-find-the-difference"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",
@@ -130,6 +133,7 @@
     "leetcode/1143-longest-common-subsequence"
   ],
   "Bit Manipulation": [
-    "leetcode/2351-first-letter-to-appear-twice"
+    "leetcode/2351-first-letter-to-appear-twice",
+    "leetcode/0389-find-the-difference"
   ]
 }

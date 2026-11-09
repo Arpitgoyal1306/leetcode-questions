@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**26** problems solved — 12 Easy · 14 Medium · 0 Hard
+**27** problems solved — 13 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy | Hash Table, String, Bit Manipulation, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
@@ -43,11 +44,12 @@
 
 ## By Difficulty
 
-### Easy (12)
+### Easy (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Hash Table, String, Bit Manipulation, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
@@ -142,10 +144,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Bit Manipulation (1)</summary>
+<summary>Bit Manipulation (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
 
 </details>
@@ -229,11 +232,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (7)</summary>
+<summary>Hash Table (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
@@ -304,10 +308,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (8)</summary>
+<summary>Sorting (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
@@ -320,10 +325,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (6)</summary>
+<summary>String (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
@@ -365,7 +371,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (23)</summary>
+<summary>python (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -375,6 +381,7 @@ _No problems solved yet._
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
@@ -410,6 +417,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy | 2026-11-09 |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy | 2026-11-08 |
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Easy | 2026-11-07 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy | 2026-11-06 |
@@ -424,4 +432,3 @@ _No problems solved yet._
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-10-31 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-29 |
-| 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy | 2026-10-28 |

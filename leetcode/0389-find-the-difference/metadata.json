@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "389",
+  "frontendId": "389",
+  "title": "Find the Difference",
+  "slug": "find-the-difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "26 ms",
+  "memory": "12.3 MB",
+  "submissionId": "2192615901",
+  "acceptedAt": "2026-11-09T16:32:21.248Z",
+  "updatedAt": "2026-11-09T16:32:22.999Z",
+  "url": "https://leetcode.com/problems/find-the-difference/",
+  "version": 1
+}
