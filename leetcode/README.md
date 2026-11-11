@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**28** problems solved — 14 Easy · 14 Medium · 0 Hard
+**29** problems solved — 15 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy | Hash Table, String, Counting |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy | Hash Table, String, Bit Manipulation, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -45,12 +46,13 @@
 
 ## By Difficulty
 
-### Easy (14)
+### Easy (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Hash Table, String, Counting |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Hash Table, String, Bit Manipulation, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
@@ -174,10 +176,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (3)</summary>
+<summary>Counting (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
@@ -234,12 +237,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (9)</summary>
+<summary>Hash Table (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
@@ -329,11 +333,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (8)</summary>
+<summary>String (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
@@ -376,7 +381,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (25)</summary>
+<summary>python (26)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -387,6 +392,7 @@ _No problems solved yet._
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -423,6 +429,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy | 2026-11-11 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-10 |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy | 2026-11-09 |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy | 2026-11-08 |
@@ -437,4 +444,3 @@ _No problems solved yet._
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | 2026-11-01 |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy | 2026-11-01 |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-10-31 |
-| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |

@@ -30,7 +30,8 @@
     "leetcode/2215-find-the-difference-of-two-arrays",
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0389-find-the-difference",
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0383-ransom-note"
   ],
   "Binary Search": [
     "leetcode/0033-search-in-rotated-sorted-array",
@@ -98,7 +99,8 @@
     "leetcode/1143-longest-common-subsequence",
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0389-find-the-difference",
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0383-ransom-note"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",
@@ -111,7 +113,8 @@
   "Counting": [
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1512-number-of-good-pairs",
-    "leetcode/2351-first-letter-to-appear-twice"
+    "leetcode/2351-first-letter-to-appear-twice",
+    "leetcode/0383-ransom-note"
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",

@@ -29,6 +29,7 @@
     "leetcode/2215-find-the-difference-of-two-arrays",
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0389-find-the-difference",
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0383-ransom-note"
   ]
 }
