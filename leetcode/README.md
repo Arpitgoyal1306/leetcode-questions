@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**29** problems solved — 15 Easy · 14 Medium · 0 Hard
+**30** problems solved — 16 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -23,6 +23,7 @@
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy | Hash Table, String, Counting |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | Hash Table, String, Queue, Counting |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy | Hash Table, String, Bit Manipulation, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -46,13 +47,14 @@
 
 ## By Difficulty
 
-### Easy (15)
+### Easy (16)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Hash Table, String, Counting |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Hash Table, String, Bit Manipulation, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
@@ -176,11 +178,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (4)</summary>
+<summary>Counting (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Easy |
@@ -237,13 +240,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (10)</summary>
+<summary>Hash Table (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
@@ -296,6 +300,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Queue (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Quicksort (1)</summary>
 
 | # | Title | Difficulty |
@@ -333,12 +346,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (9)</summary>
+<summary>String (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
@@ -381,7 +395,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (26)</summary>
+<summary>python (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -393,6 +407,7 @@ _No problems solved yet._
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -429,6 +444,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-11-11 |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy | 2026-11-11 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-10 |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy | 2026-11-09 |
@@ -443,4 +459,3 @@ _No problems solved yet._
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-11-01 |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | 2026-11-01 |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy | 2026-11-01 |
-| 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | 2026-10-31 |

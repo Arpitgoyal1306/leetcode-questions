@@ -31,7 +31,8 @@
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0389-find-the-difference",
     "leetcode/0242-valid-anagram",
-    "leetcode/0383-ransom-note"
+    "leetcode/0383-ransom-note",
+    "leetcode/0387-first-unique-character-in-a-string"
   ],
   "Binary Search": [
     "leetcode/0033-search-in-rotated-sorted-array",
@@ -100,7 +101,8 @@
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0389-find-the-difference",
     "leetcode/0242-valid-anagram",
-    "leetcode/0383-ransom-note"
+    "leetcode/0383-ransom-note",
+    "leetcode/0387-first-unique-character-in-a-string"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",
@@ -114,7 +116,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1512-number-of-good-pairs",
     "leetcode/2351-first-letter-to-appear-twice",
-    "leetcode/0383-ransom-note"
+    "leetcode/0383-ransom-note",
+    "leetcode/0387-first-unique-character-in-a-string"
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
@@ -141,5 +144,8 @@
   "Bit Manipulation": [
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0389-find-the-difference"
+  ],
+  "Queue": [
+    "leetcode/0387-first-unique-character-in-a-string"
   ]
 }

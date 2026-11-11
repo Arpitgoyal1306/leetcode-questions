@@ -412,5 +412,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-11T08:40:36.929Z"
+  },
+  {
+    "folderId": "leetcode/0387-first-unique-character-in-a-string",
+    "frontendId": "387",
+    "title": "First Unique Character in a String",
+    "slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-11T21:22:28.063Z"
   }
 ]
