@@ -13,11 +13,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "175 ms",
-  "memory": "15.6 MB",
-  "submissionId": "2194183794",
-  "acceptedAt": "2026-11-11T21:22:28.063Z",
-  "updatedAt": "2026-11-11T21:22:29.810Z",
+  "runtime": "168 ms",
+  "memory": "15.4 MB",
+  "submissionId": "2194183915",
+  "acceptedAt": "2026-11-11T21:22:54.317Z",
+  "updatedAt": "2026-11-11T21:53:16.033Z",
   "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
-  "version": 1
+  "version": 2
 }

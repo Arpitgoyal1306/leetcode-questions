@@ -1,5 +1,5 @@
-# Runtime: 175 ms
-# Memory: 15.6 MB
+# Runtime: 168 ms
+# Memory: 15.4 MB
 
 class Solution(object):
     def firstUniqChar(self, s):
