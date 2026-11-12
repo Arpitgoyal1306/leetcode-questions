@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 39 ms |
+| Runtime | 13 ms |
 | Memory | 13.3 MB |
-| Submission Date | 2026-11-12T09:31:24.882Z |
+| Submission Date | 2026-11-12T09:33:47.609Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -54,10 +54,22 @@
 class Solution(object):
     from collections import Counter
     def majorityElement(self, nums):
-        res = Counter(nums)
-        abc = res.most_common()
-        if abc > (len(nums)/2):
-            return abc[0][0]
+        # res = Counter(nums)
+        # abc = res.most_common()
+        # if abc > (len(nums)/2):
+        #     return abc[0][0]
+
+        candidate = None
+        count = 0
+
+        for num in nums:
+            if count == 0:
+                candidate = num
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
+        return candidate
 ```
 
 [View on LeetCode](https://leetcode.com/problems/majority-element/)
