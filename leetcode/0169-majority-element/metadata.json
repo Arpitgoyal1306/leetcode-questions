@@ -15,11 +15,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "13 ms",
-  "memory": "13.3 MB",
-  "submissionId": "2194502496",
-  "acceptedAt": "2026-11-12T09:33:47.609Z",
-  "updatedAt": "2026-11-12T09:33:49.288Z",
+  "runtime": "39 ms",
+  "memory": "13.6 MB",
+  "submissionId": "2194502831",
+  "acceptedAt": "2026-11-12T09:34:25.097Z",
+  "updatedAt": "2026-11-12T10:04:47.198Z",
   "url": "https://leetcode.com/problems/majority-element/",
-  "version": 2
+  "version": 3
 }
