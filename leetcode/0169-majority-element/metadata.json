@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "problemId": "169",
+  "frontendId": "169",
+  "title": "Majority Element",
+  "slug": "majority-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "39 ms",
+  "memory": "13.3 MB",
+  "submissionId": "2194501156",
+  "acceptedAt": "2026-11-12T09:31:24.882Z",
+  "updatedAt": "2026-11-12T09:31:26.281Z",
+  "url": "https://leetcode.com/problems/majority-element/",
+  "version": 1
+}

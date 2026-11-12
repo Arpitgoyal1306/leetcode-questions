@@ -29,6 +29,7 @@
     "leetcode/0389-find-the-difference",
     "leetcode/0242-valid-anagram",
     "leetcode/0383-ransom-note",
-    "leetcode/0387-first-unique-character-in-a-string"
+    "leetcode/0387-first-unique-character-in-a-string",
+    "leetcode/0169-majority-element"
   ]
 }

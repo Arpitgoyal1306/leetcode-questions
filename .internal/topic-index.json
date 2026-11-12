@@ -19,7 +19,8 @@
     "leetcode/0064-minimum-path-sum",
     "leetcode/1512-number-of-good-pairs",
     "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number",
-    "leetcode/2215-find-the-difference-of-two-arrays"
+    "leetcode/2215-find-the-difference-of-two-arrays",
+    "leetcode/0169-majority-element"
   ],
   "Hash Table": [
     "leetcode/0001-two-sum",
@@ -32,7 +33,8 @@
     "leetcode/0389-find-the-difference",
     "leetcode/0242-valid-anagram",
     "leetcode/0383-ransom-note",
-    "leetcode/0387-first-unique-character-in-a-string"
+    "leetcode/0387-first-unique-character-in-a-string",
+    "leetcode/0169-majority-element"
   ],
   "Binary Search": [
     "leetcode/0033-search-in-rotated-sorted-array",
@@ -78,7 +80,8 @@
     "leetcode/0881-boats-to-save-people",
     "leetcode/1365-how-many-numbers-are-smaller-than-the-current-number",
     "leetcode/0389-find-the-difference",
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0169-majority-element"
   ],
   "Counting Sort": [
     "leetcode/1833-maximum-ice-cream-bars",
@@ -117,7 +120,8 @@
     "leetcode/1512-number-of-good-pairs",
     "leetcode/2351-first-letter-to-appear-twice",
     "leetcode/0383-ransom-note",
-    "leetcode/0387-first-unique-character-in-a-string"
+    "leetcode/0387-first-unique-character-in-a-string",
+    "leetcode/0169-majority-element"
   ],
   "Matrix": [
     "leetcode/1351-count-negative-numbers-in-a-sorted-matrix",
@@ -147,5 +151,11 @@
   ],
   "Queue": [
     "leetcode/0387-first-unique-character-in-a-string"
+  ],
+  "Divide and Conquer": [
+    "leetcode/0169-majority-element"
+  ],
+  "Boyer–Moore Majority Vote Algorithm": [
+    "leetcode/0169-majority-element"
   ]
 }

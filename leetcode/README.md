@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**30** problems solved — 16 Easy · 14 Medium · 0 Hard
+**31** problems solved — 17 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | Array, Dynamic Programming, Matrix |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy | Hash Table, String, Counting |
@@ -47,11 +48,12 @@
 
 ## By Difficulty
 
-### Easy (16)
+### Easy (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Hash Table, String, Counting |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Hash Table, String, Queue, Counting |
@@ -94,7 +96,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (20)</summary>
+<summary>Array (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -103,6 +105,7 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
@@ -160,6 +163,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Boyer–Moore Majority Vote Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Bucket Sort (1)</summary>
 
 | # | Title | Difficulty |
@@ -178,10 +190,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (5)</summary>
+<summary>Counting (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
@@ -206,6 +219,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Divide and Conquer (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 
 </details>
 
@@ -240,11 +262,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (11)</summary>
+<summary>Hash Table (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
@@ -328,10 +351,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (10)</summary>
+<summary>Sorting (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
@@ -395,7 +419,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (27)</summary>
+<summary>python (28)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -404,6 +428,7 @@ _No problems solved yet._
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy |
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy |
@@ -444,6 +469,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0169 | [Majority Element](0169-majority-element/README.md) | Easy | 2026-11-12 |
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | 2026-11-11 |
 | 0383 | [Ransom Note](0383-ransom-note/README.md) | Easy | 2026-11-11 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-11-10 |
@@ -458,4 +484,3 @@ _No problems solved yet._
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy | 2026-11-01 |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy | 2026-11-01 |
-| 1920 | [Build Array from Permutation](1920-build-array-from-permutation/README.md) | Easy | 2026-11-01 |
