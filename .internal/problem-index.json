@@ -460,5 +460,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-12T09:41:26.549Z"
+  },
+  {
+    "folderId": "leetcode/1207-unique-number-of-occurrences",
+    "frontendId": "1207",
+    "title": "Unique Number of Occurrences",
+    "slug": "unique-number-of-occurrences",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-13T01:13:21.019Z"
   }
 ]

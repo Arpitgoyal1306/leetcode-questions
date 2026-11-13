@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1319",
+  "frontendId": "1207",
+  "title": "Unique Number of Occurrences",
+  "slug": "unique-number-of-occurrences",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1 ms",
+  "memory": "12.3 MB",
+  "submissionId": "2194969992",
+  "acceptedAt": "2026-11-13T01:13:21.019Z",
+  "updatedAt": "2026-11-13T01:13:22.193Z",
+  "url": "https://leetcode.com/problems/unique-number-of-occurrences/",
+  "version": 1
+}
