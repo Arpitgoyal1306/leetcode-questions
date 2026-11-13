@@ -11,11 +11,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "1 ms",
-  "memory": "12.3 MB",
-  "submissionId": "2194969992",
-  "acceptedAt": "2026-11-13T01:13:21.019Z",
-  "updatedAt": "2026-11-13T01:13:22.193Z",
+  "runtime": "0 ms",
+  "memory": "12.4 MB",
+  "submissionId": "2194970026",
+  "acceptedAt": "2026-11-13T01:13:29.506Z",
+  "updatedAt": "2026-11-13T08:30:05.310Z",
   "url": "https://leetcode.com/problems/unique-number-of-occurrences/",
-  "version": 1
+  "version": 2
 }

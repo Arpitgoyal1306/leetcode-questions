@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 1 ms |
-| Memory | 12.3 MB |
-| Submission Date | 2026-11-13T01:13:21.019Z |
+| Runtime | 0 ms |
+| Memory | 12.4 MB |
+| Submission Date | 2026-11-13T01:13:29.506Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -72,7 +72,6 @@ class Solution(object):
         from collections import Counter
 
         freq = Counter(arr)
-
         if len(set(freq.values())) != len(freq):
             return False
         return True
