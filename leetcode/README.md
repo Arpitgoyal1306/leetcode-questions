@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**33** problems solved — 18 Easy · 15 Medium · 0 Hard
+**34** problems solved — 19 Easy · 15 Medium · 0 Hard
 
 ## Contents
 
@@ -33,6 +33,7 @@
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | String |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy | Array, Hash Table, String |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy | Array, Hash Table |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
@@ -50,7 +51,7 @@
 
 ## By Difficulty
 
-### Easy (18)
+### Easy (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -63,6 +64,7 @@
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | String |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Array, Hash Table, String |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Array, Hash Table |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Array, Binary Search, Matrix |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Array, Hash Table, Sorting, Counting Sort |
@@ -100,7 +102,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (23)</summary>
+<summary>Array (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -115,6 +117,7 @@ _No problems solved yet._
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/README.md) | Easy |
@@ -270,7 +273,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (14)</summary>
+<summary>Hash Table (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -282,6 +285,7 @@ _No problems solved yet._
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
@@ -381,7 +385,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (10)</summary>
+<summary>String (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -391,6 +395,7 @@ _No problems solved yet._
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](2114-maximum-number-of-words-found-in-sentences/README.md) | Easy |
@@ -430,7 +435,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (30)</summary>
+<summary>python (31)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -452,6 +457,7 @@ _No problems solved yet._
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
@@ -482,6 +488,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy | 2026-11-14 |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy | 2026-11-13 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-11-12 |
 | 0169 | [Majority Element](0169-majority-element/README.md) | Easy | 2026-11-12 |
@@ -496,4 +503,3 @@ _No problems solved yet._
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
-| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |

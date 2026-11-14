@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "1044",
+  "frontendId": "1002",
+  "title": "Find Common Characters",
+  "slug": "find-common-characters",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "30 ms",
+  "memory": "12.3 MB",
+  "submissionId": "2195728269",
+  "acceptedAt": "2026-11-14T06:04:28.293Z",
+  "updatedAt": "2026-11-14T06:04:30.452Z",
+  "url": "https://leetcode.com/problems/find-common-characters/",
+  "version": 1
+}

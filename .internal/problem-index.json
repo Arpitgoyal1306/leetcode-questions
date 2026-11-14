@@ -473,5 +473,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-13T01:13:29.506Z"
+  },
+  {
+    "folderId": "leetcode/1002-find-common-characters",
+    "frontendId": "1002",
+    "title": "Find Common Characters",
+    "slug": "find-common-characters",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-14T06:04:28.293Z"
   }
 ]
