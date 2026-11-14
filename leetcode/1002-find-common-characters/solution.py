@@ -1,5 +1,5 @@
-# Runtime: 30 ms
-# Memory: 12.3 MB
+# Runtime: 32 ms
+# Memory: 12.4 MB
 
 class Solution(object):
     def commonChars(self, words):
