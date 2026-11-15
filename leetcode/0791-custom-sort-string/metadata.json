@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "807",
+  "frontendId": "791",
+  "title": "Custom Sort String",
+  "slug": "custom-sort-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2196550046",
+  "acceptedAt": "2026-11-15T10:13:10.765Z",
+  "updatedAt": "2026-11-15T10:13:12.270Z",
+  "url": "https://leetcode.com/problems/custom-sort-string/",
+  "version": 1
+}

@@ -487,5 +487,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-14T06:04:44.797Z"
+  },
+  {
+    "folderId": "leetcode/0791-custom-sort-string",
+    "frontendId": "791",
+    "title": "Custom Sort String",
+    "slug": "custom-sort-string",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-15T10:13:10.765Z"
   }
 ]

@@ -40,7 +40,8 @@
     "leetcode/0169-majority-element",
     "leetcode/0229-majority-element-ii",
     "leetcode/1207-unique-number-of-occurrences",
-    "leetcode/1002-find-common-characters"
+    "leetcode/1002-find-common-characters",
+    "leetcode/0791-custom-sort-string"
   ],
   "Binary Search": [
     "leetcode/0033-search-in-rotated-sorted-array",
@@ -88,7 +89,8 @@
     "leetcode/0389-find-the-difference",
     "leetcode/0242-valid-anagram",
     "leetcode/0169-majority-element",
-    "leetcode/0229-majority-element-ii"
+    "leetcode/0229-majority-element-ii",
+    "leetcode/0791-custom-sort-string"
   ],
   "Counting Sort": [
     "leetcode/1833-maximum-ice-cream-bars",
@@ -113,7 +115,8 @@
     "leetcode/0242-valid-anagram",
     "leetcode/0383-ransom-note",
     "leetcode/0387-first-unique-character-in-a-string",
-    "leetcode/1002-find-common-characters"
+    "leetcode/1002-find-common-characters",
+    "leetcode/0791-custom-sort-string"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0451-sort-characters-by-frequency",

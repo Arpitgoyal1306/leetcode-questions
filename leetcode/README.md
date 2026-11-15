@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**34** problems solved — 19 Easy · 15 Medium · 0 Hard
+**35** problems solved — 19 Easy · 16 Medium · 0 Hard
 
 ## Contents
 
@@ -31,6 +31,7 @@
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy | String |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Medium | Hash Table, String, Sorting |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy | Array, Hash Table, String |
@@ -75,7 +76,7 @@
 | 2215 | [Find the Difference of Two Arrays](2215-find-the-difference-of-two-arrays/README.md) | Array, Hash Table |
 | 2351 | [First Letter to Appear Twice](2351-first-letter-to-appear-twice/README.md) | Hash Table, String, Bit Manipulation, Counting |
 
-### Medium (15)
+### Medium (16)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -88,6 +89,7 @@
 | 0230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Hash Table, String, Sorting |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
@@ -273,7 +275,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (15)</summary>
+<summary>Hash Table (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -285,6 +287,7 @@ _No problems solved yet._
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy |
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Medium |
 | 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
@@ -365,7 +368,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (12)</summary>
+<summary>Sorting (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -376,6 +379,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Medium |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Easy |
@@ -385,7 +389,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (11)</summary>
+<summary>String (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -395,6 +399,7 @@ _No problems solved yet._
 | 0389 | [Find the Difference](0389-find-the-difference/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Medium |
 | 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/README.md) | Easy |
@@ -435,7 +440,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (31)</summary>
+<summary>python (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -455,6 +460,7 @@ _No problems solved yet._
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0709 | [To Lower Case](0709-to-lower-case/README.md) | Easy |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Medium |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy |
@@ -488,6 +494,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0791 | [Custom Sort String](0791-custom-sort-string/README.md) | Medium | 2026-11-15 |
 | 1002 | [Find Common Characters](1002-find-common-characters/README.md) | Easy | 2026-11-14 |
 | 1207 | [Unique Number of Occurrences](1207-unique-number-of-occurrences/README.md) | Easy | 2026-11-13 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-11-12 |
@@ -502,4 +509,3 @@ _No problems solved yet._
 | 1512 | [Number of Good Pairs](1512-number-of-good-pairs/README.md) | Easy | 2026-11-05 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
-| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
